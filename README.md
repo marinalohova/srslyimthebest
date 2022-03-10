@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<div style="padding: 10px; border: 3px solid yellow; background-color: rgba(45, 85, 255, 0.6);"><a href="https://linktr.ee/razomforukraine" target="_blank">Support Ukraine 🇺🇦 Help provide humanitarian aid to Ukraine</a></div>
+
+** If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/srslyimthebest). This will help me churn out more tutorials, code snippets and templates for you. ** 
 
 <!--
 **srslyimthebest/srslyimthebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
