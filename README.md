@@ -1,10 +1,3 @@
-
-[Support Ukraine 🇺🇦 Help provide humanitarian aid to Ukraine🇦](https://linktr.ee/razomforukraine)
-
-<img src="https://pbs.twimg.com/media/FMfpa-DWYAEdSgE.jpg" height="400"/>
-
-**If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/srslyimthebest). This will help me churn out more tutorials, code snippets and templates for you.** 
-
 <!--
 **srslyimthebest/srslyimthebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
